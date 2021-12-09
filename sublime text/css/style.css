@@ -1,0 +1,55 @@
+body {
+    background-image: url(../img/fondo.jpg);
+  background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+h1.encabezado {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+}
+
+header {
+    padding: 20px 0 0 0;
+    background-color: transparent;
+    text-align: center;
+}
+
+
+}
+
+ul {
+    list-style: none;
+}
+
+
+.encabezado {
+    margin: 30px 30px;
+}
+
+
+.card {
+    text-align:center;
+    background-color: transparent;
+    font-family: sans-serif;
+}
+
+.info-card {
+    padding: 10px 20px;
+    color:white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.info-card p,
+.card h4 {
+    margin-bottom: 5px;
+}
+
+
+
+
+
