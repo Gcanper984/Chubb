@@ -1,44 +1,46 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-
 <channel>
-  <title>Principal</title>
-  <link>file:///C:/Users/34627/Desktop/Pagina%20web/index.html</link>
-  <description>Página Principal</description>
-  <item>
-    <title>Antivirus</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/Antivirus/index.html</link>
-    <description>Tutorial sobre instalar un antivirus</description>
-  </item>
-  <item>
-    <title>Google Chrome</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/Google/index.html</link>
-    <description>Turorial sobre instalar un antivirus</description>
-  </item>
-  <item>
-    <title>Paquete Ofirmático</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/Ofirmatico/index.html</link>
-    <description>Turorial sobre instalar un Paquete Ofirmático</description>
-  </item>
-  <item>
-    <title>Aplicación Portable</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/portable/index.html</link>
-    <description>Turorial sobre instalar una Aplicación Ofirmático</description>
-  </item>
-  <item>
-    <title>Recuperar Datos</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/recuperacion%20de%20datos/index.html</link>
-    <description>Turorial sobre instalar una Aplicación para Recuperar Datos</description>
-  </item>
-  <item>
-    <title>Sublime Text</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/sublime%20text/index.html</link>
-    <description>Turorial sobre instalar Sublime Text</description>
-  </item>
-  <item>
-    <title>VirtualBox</title>
-    <link>file:///C:/Users/34627/Desktop/Pagina%20web/virtual%20box/index.html</link>
-    <description>Turorial sobre instalar VirtualBox</description>
-  </item>
+<!-- Prólogo -->
+<title>Proyecto Página Web</title>
+<link>https://gcanper984.github.io/Chubb/</link>
+<description> Instalaciones de software en los distintos Sistemas Operativos (Windows/Linux) </description>
+<copyright>1º ASIR - LMSGI</copyright>
+<!--  Noticias del canal  -->
+<item>
+<title>Antivirus</title>
+<description>En este artículo encontrará información como instalar un antivirus</description>
+<link>https://gcanper984.github.io/Chubb/Antivirus/index.html</link>
+<category>londres</category>
+</item>
+<item>
+<title>Google Chrome</title>
+<description>En este artículo encontrará información sobre como instalar Google Chrome</description>
+<link>https://gcanper984.github.io/Chubb/Google/index.html</link>
+</item>
+<item>
+<title>Paquete Ofirmático</title>
+<description>En este artículo encontrará información sobre como instalar un Paquete Ofirmático</description>
+<link>https://gcanper984.github.io/Chubb/Ofirmatico/index.html</link>
+</item>
+<item>
+<title>Aplicación Portable</title>
+<description>En este artículo encontrará información sobre como instalar una Aplicación Portable</description>
+<link>https://gcanper984.github.io/Chubb/portable/index.html</link>
+</item>
+<item>
+<title>Recuperar Datos</title>
+<description>En este artículo encontrará información sobre como instalar una Aplicación para Recuperar Datos </description>
+<link>https://gcanper984.github.io/Chubb/recuperacion%20de%20datos/index.html</link>
+</item>
+<item>
+<title>Sublime Text</title>
+<description>En este artículo encontrará información sobre como instalar Sublime Text</description>
+<link>https://gcanper984.github.io/Chubb/sublime%20text/index.html</link>
+</item>
+<item>
+<title>VirtualBox</title>
+<description>En este artículo encontrará información sobre como instalar VirtualBox</description>
+<link>https://gcanper984.github.io/Chubb/virtual%20box/index.html</link>
+</item>
 </channel>
 </rss>
