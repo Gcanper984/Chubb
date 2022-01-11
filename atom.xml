@@ -1,0 +1,93 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://gcanper984.github.io/Chubb/">
+<id>https://gcanper984.github.io/Chubb/</id>
+<title>Instalaciones de software en los distintos Sistemas Operativos (Windows/Linux)</title>
+<updated>2021-12-21T19:06:00+01:00</updated>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/atom.xml"/>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<category term="Informática"/>
+<entry>
+<id>https://gcanper984.github.io/Chubb/Antivirus/index.html</id>
+<title>Antivirus</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar un Antivirus</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Antivirus/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/Google/index.html</id>
+<title>Google</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar Google Chrome</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Google/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/Ofirmatico/index.html</id>
+<title>Ofirmático</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar un Paquete Ofirmático</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Ofirmatico/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/portable/index.html</id>
+<title>Portable</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar una Aplicación Portable</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/portable/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/recuperacion%20de%20datos/index.html</id>
+<title>Recuva</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar Recuva
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/recuperacion%20de%20datos/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/sublime%20text/index.html</id>
+<title>Sublime Text</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar Sublime Text</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/sublime%20text/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/virtual%20box/index.html</id>
+<title>VirtualBox</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<summary> En este artículo cutre encontraras casi ninguna información sobre como instalar VirtualBox</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Antivirus/index.html"/>
+</entry>
+
+
+
+
+
+
+
+</feed>
