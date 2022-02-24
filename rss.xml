@@ -42,5 +42,20 @@
 <description>En este artículo encontrará información sobre como instalar VirtualBox</description>
 <link>https://gcanper984.github.io/Chubb/virtual%20box/index.html</link>
 </item>
+<item>
+<title>Ventoy</title>
+<description>En este artículo encontrará información sobre como instalar Ventoy</description>
+<link>https://gcanper984.github.io/Chubb/ventoy/index.html</link>
+</item>
+<item>
+<title>Crear Imagen</title>
+<description>En este artículo encontrará información sobre como instalar Crear una imagen de un Sistema a través de Clonezilla Live</description>
+<link>https://gcanper984.github.io/Chubb/Crear/index.html</link>
+</item>
+<item>
+<title>Restaurar Imagen</title>
+<description>En este artículo encontrará información sobre como Restaurar una imagen de un Sistema a través de Clonezilla</description>
+<link>https://gcanper984.github.io/Chubb/Restaurar/index.html</link>
+</item>
 </channel>
 </rss>
