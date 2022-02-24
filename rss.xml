@@ -57,5 +57,15 @@
 <description>En este artículo encontrará información sobre como Restaurar una imagen de un Sistema a través de Clonezilla</description>
 <link>https://gcanper984.github.io/Chubb/Restaurar/index.html</link>
 </item>
+<item>
+<title>Servidor Samba (Copiar)</title>
+<description>En este artículo encontraras información sobre como copiar la imagen de un Sistema en un equipo remoto utilizando Samba</description>
+<link>https://gcanper984.github.io/Chubb/Samba%20Server%20(Copiar)/index.html</link>
+</item>
+<item>
+<title>Restaurar Imagen</title>
+<description>En este artículo encontraras información sobre como restaurar una imagen de un Sistema Operativo con Samba</description>
+<link>https://gcanper984.github.io/Chubb/Samba%20Server%20(Restaurar)/index.html</link>
+</item>
 </channel>
 </rss>
