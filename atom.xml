@@ -90,4 +90,66 @@
 <summary> En este artículo encontraras información sobre como instalar VirtualBox</summary>
 <link rel="alternate" href="https://gcanper984.github.io/Chubb/virtual%20box/index.html"/>
 </entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/ventoy/index.html</id>
+<title>Ventoy</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<category term="Ventoy"/>
+<summary> En este artículo encontraras información sobre como instalar Ventoy</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/ventoy/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/Crear/index.html</id>
+<title>Crear Imagen de un Sistema con Clonezilla</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<category term="Crear"/>
+<summary> En este artículo encontraras información sobre como crear una imagen de un Sistema Operativo con Clonezilla Live</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Crear/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/Restaurar/index.html</id>
+<title>Restaurar la imagen de un Sistema con Clonezilla</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<category term="Restaurar"/>
+<summary> En este artículo encontraras información sobre como restaurar una imagen de un Sistema Operativo con Clonezilla Live</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Restaurar/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/Restaurar/index.html</id>
+<title>Restaurar la imagen de un Sistema con Clonezilla</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<category term="Restaurar"/>
+<summary> En este artículo encontraras información sobre como restaurar una imagen de un Sistema Operativo con Clonezilla Live</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Restaurar/index.html"/>
+</entry>
+
+<entry>
+<id>https://gcanper984.github.io/Chubb/Restaurar/index.html</id>
+<title>Restaurar la imagen de un Sistema con Clonezilla</title>
+<update>2021-02-12T18:30:00+01:00</update>
+<author>
+<name>Guillermo Cañero Pérez</name>
+</author>
+<category term="Restaurar"/>
+<summary> En este artículo encontraras información sobre como restaurar una imagen de un Sistema Operativo con Clonezilla Live</summary>
+<link rel="alternate" href="https://gcanper984.github.io/Chubb/Restaurar/index.html"/>
+</entry>
+
+
 </feed>
